@@ -67,6 +67,13 @@ sudo apt-get install openssl libcurl4-openssl-dev libxml2 libssl-dev libxml2-dev
 sudo emerge lastpass-cli
 ```
 
+#### OpenSUSE
+* Install the package:
+
+```
+sudo zypper in lastpass-cli
+```
+
 #### Other Linux Distros
 Install the packages listed in the Dependencies section of this document,
 and then follow instructions in the 'Building' section.
